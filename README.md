@@ -13,3 +13,4 @@ Problem Id | Title | Difficulty | Solution
  125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [JavaScript](./code/js/valid_palindrome.js)
  169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [JavaScript](./code/js/majority_element.js)
  171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [JavaScript](./code/js/excel_sheet_column_number.js)
+ 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [JavaScript](./code/js/invert_binary_tree.js)
