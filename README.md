@@ -4,6 +4,9 @@ Mainly about JavaScript Solutions for problems in Leetcode
 Problem Id | Title | Difficulty | Solution
 :---: | --- | :---: | ---
 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [JavaScript](./code/js/invert_binary_tree.js)
+220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | Easy | [JavaScript](./code/js/contains_duplicate_iii.js)
+219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [JavaScript](./code/js/contains_duplicate_ii.js)
+217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [JavaScript](./code/js/contains_duplicate.js)
 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [JavaScript](./code/js/excel_sheet_column_number.js)
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [JavaScript](./code/js/majority_element.js)
 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | [JavaScript](./code/js/sort_list.js)
