@@ -15,6 +15,7 @@ Problem Id | Title | Difficulty | Solution
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium | [JavaScript](./code/js/path_sum_ii.js)
 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [JavaScript](./code/js/spiral_matrix_ii.js)
 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [JavaScript](./code/js/regular_expression_matching.js)
+9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [JavaScript](./code/js/palidrome_number.js)
 3 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [JavaScript](./code/js/longest_substring_without_repeating.js)
 2 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [JavaScript](./code/js/add_two_numbers.js)
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Medium | [JavaScript](./code/js/two_sum.js)
